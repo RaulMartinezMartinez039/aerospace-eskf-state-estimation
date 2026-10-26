@@ -1,0 +1,237 @@
+{
+  "source_repository": "https://github.com/RaulMartinezMartinez039/faraday-avionics-entry",
+  "source_commit": "046e703e1d4d3f9b643785de7e2f92328550b8ff",
+  "source_directory": "Software/Ejercicio_3",
+  "files": [
+    {
+      "original_path": "fusion.c",
+      "project_path": "src/fusion.c",
+      "sha256": "05ff9da4731e03e4fd4f03578f325b75b311afecb549abf1611f45b09a681780"
+    },
+    {
+      "original_path": "fusion.h",
+      "project_path": "src/fusion.h",
+      "sha256": "67ebb9ed0bcc8348f4c3f476f985fc9f0e09678a7b140d7f6278cf5ab99e8ab8"
+    },
+    {
+      "original_path": "prueba_fusion.c",
+      "project_path": "tests/prueba_fusion.c",
+      "sha256": "647cc581fad48977c80ddb831af72d33fc1678b5db657c6d5a4c6553af3e38d8"
+    },
+    {
+      "original_path": "simulacion.c",
+      "project_path": "simulations/simulacion.c",
+      "sha256": "1c8c24d14ce39d78df78341abb3ab10c30bb0da80a17d5ea35fb53a0855b5423"
+    },
+    {
+      "original_path": "simulacion_3d.c",
+      "project_path": "simulations/simulacion_3d.c",
+      "sha256": "dbc42d485db3d4a8ae0ff3a6e019fa25df0875b88bf4fa1a5928ebaa1af88104"
+    },
+    {
+      "original_path": "requirements.txt",
+      "project_path": "analysis/requirements.txt",
+      "sha256": "2df34e3ef5a339602ea9989c750b97f5426a48e5c62186dbf50a04ad1c589437"
+    },
+    {
+      "original_path": "Ejercicio_3.pdf",
+      "project_path": "docs/technical_report_es.pdf",
+      "sha256": "ab97be1817fd64808df665a8a5142fd466465d8085b03c82f36bda736b71fa54"
+    },
+    {
+      "original_path": "resultados_simulacion.csv",
+      "project_path": "results/vertical/resultados_simulacion.csv",
+      "sha256": "8058d09d069612f1c9fc8e60bf21081cddc4d41a8d3bfeba80aaa8c4de9fbeeb"
+    },
+    {
+      "original_path": "resultados_simulacion_3d.csv",
+      "project_path": "results/3d/resultados_simulacion_3d.csv",
+      "sha256": "2f7f3464bd614e40421521c66d8afc24f741b7df5f4feb72cbbce330eda923a2"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/generar_graficas_3d.py",
+      "project_path": "analysis/generar_graficas_3d.py",
+      "sha256": "659c5d23573e9a3696783f46266d0a52860814f43af4cb81a9320753ce6e96f2"
+    },
+    {
+      "original_path": "graficas_simulacion/02_errores_verticales.pdf",
+      "project_path": "results/vertical/02_errores_verticales.pdf",
+      "sha256": "68c2518416b226498e7a1b2f8650bf084ff125a0d4bcf407fdd65b5c5ac20a65"
+    },
+    {
+      "original_path": "graficas_simulacion/02_errores_verticales.png",
+      "project_path": "results/vertical/02_errores_verticales.png",
+      "sha256": "367321d04bf40f626dd8e4791c1aa74817595da19817c0d2cd6c3d94d6c0d426"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/01_trayectoria_3d.pdf",
+      "project_path": "results/3d/01_trayectoria_3d.pdf",
+      "sha256": "10aab2259659b53521ecaeef6aa0f7363c600f5327f5fce4b213169e76847940"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/11_sesgos_giro.png",
+      "project_path": "results/3d/11_sesgos_giro.png",
+      "sha256": "40704aa3b7eac1b985f2b155fc79189aadd9c201d4793bbdd0148ea0f1a46579"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/11_sesgos_giro.pdf",
+      "project_path": "results/3d/11_sesgos_giro.pdf",
+      "sha256": "79b1e306457e0813cd43a35a296d9c1a7ef8451c3f0d6f24a346c33d1b6cef45"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/07_cuaterniones.png",
+      "project_path": "results/3d/07_cuaterniones.png",
+      "sha256": "9fb3ae981efe7ac16fc758f4655db189cf4216f11a181b23363e24e757ee05a8"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/01_trayectoria_3d.png",
+      "project_path": "results/3d/01_trayectoria_3d.png",
+      "sha256": "876f326fe30dc6ff3a9811cb9080b36451bb5bda13ee09233a4dad86e196cf15"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/16_errores_3d.png",
+      "project_path": "results/3d/16_errores_3d.png",
+      "sha256": "ca873c3ca5409a4afe508c7780058a019a15c27b2928a9c7fe1c8402dfefb1cf"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/14_incertidumbres.png",
+      "project_path": "results/3d/14_incertidumbres.png",
+      "sha256": "c656a976a45201d408271a49d787c0b60a7bfe57310b0e4d00614097f8874296"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/16_errores_3d.pdf",
+      "project_path": "results/3d/16_errores_3d.pdf",
+      "sha256": "a5043459eaea4c785509ef6ce5aa7fd82712c0da6e3498c86ee086692c383394"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/03_v_ned.png",
+      "project_path": "results/3d/03_v_ned.png",
+      "sha256": "b8ff20ef7bbbc46f3459705a2426c87b021bdd2cc7930b2e4f1d66b9ab9e7afc"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/metricas.csv",
+      "project_path": "results/3d/metricas.csv",
+      "sha256": "5d88ec24291b5c00b103855ab2a5ce643ed2aec4c08ca0c80015a8ed20dc9dde"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/15_perfil_vuelo.png",
+      "project_path": "results/3d/15_perfil_vuelo.png",
+      "sha256": "217c617cde1ef3a6cfcaea91cf21682124d52e5a4b13631e1e25307f28825a55"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/10_sesgos_acc.pdf",
+      "project_path": "results/3d/10_sesgos_acc.pdf",
+      "sha256": "d07dc9dac4de20483b4fa2d3a8c41c060c37f0db64a571e34c4b4763bbff9798"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/09_error_angular.pdf",
+      "project_path": "results/3d/09_error_angular.pdf",
+      "sha256": "be40c33d84a6bfcb487020a6123be3034693cc639cd039ee5ca9f662e09f23c9"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/12_error_sesgos_acc.pdf",
+      "project_path": "results/3d/12_error_sesgos_acc.pdf",
+      "sha256": "40c7f029b3c4b19fb4acfae2524bc533c4eacbfc7954e2508561c47b9201cef3"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/09_error_angular.png",
+      "project_path": "results/3d/09_error_angular.png",
+      "sha256": "2571337897575d68971a2f74e45925dcee60091da3a86584ddff2926ed4e165c"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/14_incertidumbres.pdf",
+      "project_path": "results/3d/14_incertidumbres.pdf",
+      "sha256": "ade0ff4621afdbed38876576fa4679adcdc66a066c599951054f51548462f858"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/02_p_ned.png",
+      "project_path": "results/3d/02_p_ned.png",
+      "sha256": "ef4eedf232f196456af9caa4524f3dac806cde426137e3c7caf2f8289dfb3127"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/06_error_velocidad.pdf",
+      "project_path": "results/3d/06_error_velocidad.pdf",
+      "sha256": "0829bfaaaa351eabcd027f5489d15032350a283ed6a915f91a0aabe3d349da1c"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/07_cuaterniones.pdf",
+      "project_path": "results/3d/07_cuaterniones.pdf",
+      "sha256": "c7567d38bb58ffa227a2dd28d505f6d8fdeaf041fe3f74a7328965a0aadde576"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/graficas_simulacion_3d.pdf",
+      "project_path": "results/3d/graficas_simulacion_3d.pdf",
+      "sha256": "2b45d684d64f3b63ac3647cd51a5bc51b3502df385aa708911bb951d44824490"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/06_error_velocidad.png",
+      "project_path": "results/3d/06_error_velocidad.png",
+      "sha256": "020ea6f94d52957c5960fc67195721db148b8e95d5a482b388511f1c1f1aebf5"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/10_sesgos_acc.png",
+      "project_path": "results/3d/10_sesgos_acc.png",
+      "sha256": "dbe6135fe5d34dcd0dcd07abe53b0e97e52dbb50f0a31df54887f453113b9059"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/04_movimiento_vertical.png",
+      "project_path": "results/3d/04_movimiento_vertical.png",
+      "sha256": "fc56fa51ce96ed589b8201502011d08ea7aab1ee301094c49f0091d70a1a146f"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/03_v_ned.pdf",
+      "project_path": "results/3d/03_v_ned.pdf",
+      "sha256": "559311c573c0af8568855a6676d8a20e7150539ba21355726eab607ed3fdff62"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/05_error_posicion.png",
+      "project_path": "results/3d/05_error_posicion.png",
+      "sha256": "d3814e5494fb94da97b9974bf82f1816cdf08563d9c71e46bef5035a99a13245"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/13_error_sesgos_giro.png",
+      "project_path": "results/3d/13_error_sesgos_giro.png",
+      "sha256": "38d347a3d9f386c539a00b7cbfa05ed85c98314f901eb69de2cdffc1ea508e7b"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/15_perfil_vuelo.pdf",
+      "project_path": "results/3d/15_perfil_vuelo.pdf",
+      "sha256": "1077e5e42dbf556f038d17c3f29eedc9056c305aa20cd72c18bcfc9642636289"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/08_orientacion.png",
+      "project_path": "results/3d/08_orientacion.png",
+      "sha256": "322545c7c35f1c299d2ce24dc9b9934edc6f37f72d9d5171d10df83fa70fae56"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/13_error_sesgos_giro.pdf",
+      "project_path": "results/3d/13_error_sesgos_giro.pdf",
+      "sha256": "3bae1c3c0f6411e49a73d4f03fb111490e95366a0cfcf4213b2c484074f73efc"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/12_error_sesgos_acc.png",
+      "project_path": "results/3d/12_error_sesgos_acc.png",
+      "sha256": "2d2f116e18c593865bfee5681bb3a94d279a5e7c95fb1bec51d04a31a481cbe6"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/05_error_posicion.pdf",
+      "project_path": "results/3d/05_error_posicion.pdf",
+      "sha256": "161f9ec61e91641d086458c391a41fd22a3aff4a5ad2ae5b80f82d6d35c4dc3e"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/08_orientacion.pdf",
+      "project_path": "results/3d/08_orientacion.pdf",
+      "sha256": "ef5ed7c0829d924ddab26c9c4f1b40034847f645c842d303b87c8f80a22fb0f1"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/02_p_ned.pdf",
+      "project_path": "results/3d/02_p_ned.pdf",
+      "sha256": "66d075765d76a7098a498d259fd3c7f1053fed5765b773bab7e2ca2d9997f50a"
+    },
+    {
+      "original_path": "graficas_simulacion_3d/04_movimiento_vertical.pdf",
+      "project_path": "results/3d/04_movimiento_vertical.pdf",
+      "sha256": "7761ca4036c3abb3d5e2b74e8adcbd498a94984afedb790ce09cd5354c22c50f"
+    }
+  ]
+}
